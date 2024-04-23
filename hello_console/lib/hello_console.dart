@@ -1,3 +1,6 @@
-int calculate() {
-  return 6 * 7;
+import 'dart:convert';
+import 'dart:io';
+
+void main(List<String> arguments){
+  print("done");
 }
